@@ -1,0 +1,3 @@
+nltk
+pyaudio
+speech_recognition

@@ -1,0 +1,31 @@
+{
+    "nome": "ana",
+    "perguntas":  [
+        "diga",
+        "oi tudo ",
+        "oi tudo bem",
+        "oi tudo bem contigo",
+        "oi tudo bem contigo assistente",
+        "qual seria",
+        "qual é",
+        "quais são",
+        "diga"
+    ],
+    "solucao": [
+        {
+            "nomes": "ponto alto",
+            "resposta": "O ponto mais alto do relevo brasileiro e o Pico da Neblina no Amazonas com uma altitude de 2.993 metros."
+        },
+        {
+            "nomes": "tipos relevo",
+            "resposta": "O relevo brasileiro e caraterizado por baixas e medias altitudes. As formas de relevo predominantes sao os planaltos e as depressoes."
+        },
+        {
+            "nomes": "quais aspectos planaltos",
+            "resposta": "Os planaltos sao relevos irregulares, geralmente com altitudes elevadas, limitados por uma superficie mais baixa. Um exemplo no Brasil e o Planalto Central Brasileiro."
+        }
+    ]
+
+}
+
+
